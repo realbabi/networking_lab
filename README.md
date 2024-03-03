@@ -16,8 +16,9 @@ Project focuses on CCNA principles and objectives. Goal of the project is to est
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Network Diagram in GNS3: <br/>
+<img src="https://i.imgur.com/Ni7VAev.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<!--
 <br />
 <br />
 Select the disk:  <br/>
