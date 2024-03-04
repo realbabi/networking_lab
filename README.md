@@ -15,6 +15,7 @@ Project focuses on CCNA principles and objectives. Goal of the project is to est
 
 <h2>Program walk-through:</h2>
 
+To begin the project, will start with a simple diagram displaying the networks and devices on the network to reduce any further confusion. Especially to help when returning to a project or trouble shooting. Mistyping an address will cause trouble, so will keep it simple with diagrams in GNS3.
 <p align="center">
 Network Diagram in GNS3: <br/>
 <img src="https://i.imgur.com/Ni7VAev.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
