@@ -17,15 +17,15 @@ Project focuses on CCNA principles and objectives. Goal of the project is to est
 
 The project will start as a basic setup and will progressively evolve to fit new learning blocks. All of the documentation is within the underlying folder within this project repository and are availble for downloading and viewing.
 <p align="center">
-Network Diagram in GNS3: <br/>
+Where I start in GNS3: <br/>
 <img src="https://i.imgur.com/Ni7VAev.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<!--
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Configuring VLANs:  <br/>
+<img src="https://i.imgur.com/sg9Ojnm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+ <!--
 Enter the number of passes: <br/>
 <img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
