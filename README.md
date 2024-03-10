@@ -11,13 +11,13 @@ Project focuses on CCNA principles and objectives. Goal of the project is to est
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> - <b>GNS3</b> - <b>VMware Workstation</b> 
+- <b>Windows 10</b> - <b>GNS3</b> - <b>VMware Workstation</b> - <b>Packet Tracer</b> 
 
 <h2>Program walk-through:</h2>
 
-The project will start as a basic setup and will progressively evolve to fit new learning blocks. All of the documentation is within the underlying folder within this project repository and are availble for downloading and viewing.
+The project will start as a basic setup and progressively evolve to fit new learning blocks. All of the documentation is in the underlying folder of this project repository and is available for download and viewing.
 <p align="center">
-Where I start in GNS3: <br/>
+Initial Setup of Routers and Switches: <br/>
 <img src="https://i.imgur.com/Ni7VAev.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
