@@ -1,7 +1,7 @@
 <h1>Networking Lab</h1>
 
 <h2>Description</h2>
-Project focuses on CCNA principles and objectives. Goal of the project is to establish a fundemental understanding of networking principles, setup of cisco router/switches, and troubleshooting networking problems.
+The project aims to establish a fundamental understanding of networking principles, set up / troubleshoot and secure networks
 <br />
 
 
